@@ -1,8 +1,11 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=vinnyaquino&color=ff69b4"><br>
+<img align="right" src="https://komarev.com/ghpvc/?username=vinnyaquino&color=986DFF"><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#986DFF&height=120&section=header"/>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vinícius Aquino</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=986DFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Vinícius+Aquino+😉+👋;Here+you+can+see+some+projects+of+mine!;Be+welcome!+😎)](https://git.io/typing-svg)
 
-Backend Developer and Cyber Security enthusiast with a Passion for Coffee and Game Development in my spare time.
+<!-- <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vinícius Aquino</h1> -->
+
+<strong>Backend Developer and Cyber Security enthusiast with a Passion for Coffee and Game Development in my spare time.</strong>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Aquino-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinnyaquino/)](https://www.linkedin.com/in/vinnyaquino/) 
 [![Gmail Badge](https://img.shields.io/badge/-viniciusaquino123@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusaquino123@gmail.com)](mailto:viniciusaquino123@gmail.com)
@@ -12,7 +15,7 @@ Hello! I'm Vinícius Aquino, a Web Developer at ZlinPay, experienced with PHP 8+
 
 I have a strong passion for web development and creating solutions that positively impact users. I'm always seeking challenges that allow me to grow professionally and make meaningful contributions. Additionally, I am enthusiastic about Linux, open-source technologies, cybersecurity, and exploring new advancements in these areas.
 
-<h4 align="center">Some Technologies, Languages, Frameworks and others<h4/>
+<h4 align="center"><strong>Some Technologies, Languages, Frameworks and others</strong><h4/>
 
 <div align="center">
 <!-- Laravel --> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"  alt="Laravel" />
